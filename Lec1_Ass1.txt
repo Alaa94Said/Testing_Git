@@ -1,6 +1,9 @@
 #include <stdio.h>
 int main (void)
 {
+
+line 2 master 
+
      printf("     *\n    ***\n   *****\n  *******\n *********\n***********");
 	 return 0;
  }
